@@ -1,5 +1,4 @@
-#### <div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div>
-# kubOS
+# kubOS #### <div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div>
 Microcloud Container OS\
 rfgw\
 regregqerg\
