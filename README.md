@@ -1,9 +1,6 @@
 # <div><div dir="ltl">kubOS</div><div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div></div>
 
-<div id="textbox">
-  <p class="alignleft">Text on the left.</p>
-  <p class="alignright">Text on the right.</p>
-</div>
+<div><div dir="ltl">kubOS</div><div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div></div>
 
 Microcloud Container OS\
 rfgw\
