@@ -1,2 +1,2 @@
-# kubOS
+# kubOS2
 Microcloud Container OS
