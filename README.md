@@ -1,9 +1,10 @@
-# <div><div dir="ltl">kubOS</div><div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div></div>
+# <div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div>
 
 <div>
 <table>
     <tr>
         <td>Foo</td>
+        <td>Goo</td>
     </tr>
 </table>
 </div>
