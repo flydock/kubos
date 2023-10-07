@@ -4,10 +4,10 @@
     <table>
         <tr>
             <td>
-                <a href="README.md">EN</a>
+                <a href="#readme">EN</a>
             </td>
             <td>
-                <a href="README.md">RU</a>
+                <a href="#readme">RU</a>
             </td>
         </tr>
     </table>
