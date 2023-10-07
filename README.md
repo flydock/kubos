@@ -1,4 +1,4 @@
-# kubOS2
+# kubOS [EN](https://github.com/flydock/kubos#readme)
 Microcloud Container OS\
 rfgw\
 regregqerg\
