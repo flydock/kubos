@@ -1,6 +1,12 @@
 # <div><div dir="ltl">kubOS</div><div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div></div>
 
-<div><div dir="ltl">kubOS</div><div dir="rtl">[[EN](https://github.com/flydock/kubos#readme)] [[RU](https://github.com/flydock/kubos#readme)]</div></div>\
+<div>
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+</div>
 
 Microcloud Container OS\
 rfgw\
