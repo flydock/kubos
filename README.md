@@ -1,6 +1,6 @@
 # kubOS
 
-<div>
+<div dir="rtl">
     <table>
         <tr>
             <td>
