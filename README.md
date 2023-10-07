@@ -11,7 +11,7 @@
 <div style="display: flex; justify-content: space-around">
    <span>Left</span>
    <span>Middle</span>
-   <span>Right</span>
+   <span dir="rtl">Right</span>
 </div>
 
 Microcloud Container OS\
