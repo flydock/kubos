@@ -9,9 +9,9 @@
 </div>
 
 <div style="display: flex; justify-content: space-around">
-   <div>Left</div>
-   <div>Middle</div>
-   <div>Right</div>
+   <span>Left</span>
+   <span>Middle</span>
+   <span>Right</span>
 </div>
 
 Microcloud Container OS\
