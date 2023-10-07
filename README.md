@@ -3,8 +3,12 @@
 <div>
     <table>
         <tr>
-            <td>[EN](https://github.com/flydock/kubos#readme)</td>
-            <td>[RU](https://github.com/flydock/kubos#readme)</td>
+            <td>
+                <a href="README.md">EN</a>
+            </td>
+            <td>
+                <a href="README.md">RU</a>
+            </td>
         </tr>
     </table>
 </div>
