@@ -7,7 +7,7 @@
                 <a href="#readme">EN</a>
             </td>
             <td>
-                <a href="#readme">RU</a>
+                <a href="README.ru.md">RU</a>
             </td>
         </tr>
     </table>
