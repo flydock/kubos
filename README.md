@@ -8,6 +8,12 @@
 </table>
 </div>
 
+<div style="display: flex; justify-content: space-around">
+   <div>Left</div>
+   <div>Middle</div>
+   <div>Right</div>
+</div>
+
 Microcloud Container OS\
 rfgw\
 regregqerg\
