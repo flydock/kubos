@@ -1,16 +1,5 @@
-# kubOS
+# kubOS Микрооблачная Контейнерная ОС
 
-<div>
-    <table>
-        <tr>
-            <td>
-                <a href="README.md">EN</a>
-            </td>
-            <td>
-                <a href="README.ru.md">RU</a>
-            </td>
-        </tr>
-    </table>
-</div>
+[![lang](https://img.shields.io/badge/lang-en-C8C8DE)](README.md) [![lang](https://img.shields.io/badge/lang-ru-C8C8DE)](README.ru.md)
 
-Микрооблачная контейнерная ОС
+Микрооблачная контейнерная ОС.
